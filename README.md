@@ -1,4 +1,4 @@
-# Search-Engine-Master
+# Search-Engine-Master[Cyber Nerd]
 
 ## Table of Contents
 
@@ -7,7 +7,6 @@
 - [Setting up the project](#Setting-up-the-project)
 - [Stats](#stats)
 - [Screen Shots](#screens-shots)
-- 
 
 
 ## Introduction
