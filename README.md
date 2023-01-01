@@ -54,7 +54,7 @@ The index is dynamically updated when a new document is added without deletion o
 - Extract the documents to a folder
 - Install the requirements (pip install -r requirements.txt)
 - In terminal run the following commands:
-    - python
+    - >python
     - >import nltk
     - >nltk.download()
     - Download the complete library from the GUI
