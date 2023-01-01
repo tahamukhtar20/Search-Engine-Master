@@ -5,6 +5,9 @@
 - [Introduction](#introduction)
 - [Details](#Details)
 - [Setting up the project](#Setting-up-the-project)
+- [Stats](#stats)
+- [Screen Shots](#screens-shots)
+- 
 
 
 ## Introduction
@@ -70,6 +73,22 @@ The index is dynamically updated when a new document is added without deletion o
 - Input the query and click Search
 - The top Ten results are displayed
 
+
+## Stats
+
+- The Dataset contains 1.6 Million articles
+- 200,000 articles have been tested on this code.
+- The python script took less than 3 minutes to parse, create the forward index, lexicon, inverted index, and rank the documents on an 8 core machine.
+- Search Speed is instant, both the single word and multi-word(even whole paragraphs)
+- Ranking can be improved based on as TP-IDF doesn't take Proximity or Position into consideration.
+
+
+
+## Screens Shots
+### Web Interface
+![img.png](img.png)
+### Search Results
+![img_1.png](img_1.png)
 
 
 
