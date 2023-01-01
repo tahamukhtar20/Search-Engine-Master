@@ -41,7 +41,6 @@ The index is dynamically updated when a new document is added without deletion o
 ### Requirements
 
 - Python 3.6 or higher
-- Flask
 - Multi-core CPU
 - Enough RAM to store the index
 - Enough disk space to store the index
