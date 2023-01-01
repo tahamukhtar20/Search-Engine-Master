@@ -59,7 +59,9 @@ The index is dynamically updated when a new document is added without deletion o
     - Download the complete library from the GUI
     - >exit()
 - In application_inverted_index.py change the path of the documents folder to the path of the folder where the documents are stored
+### Running
 - Run the application_inverted_index.py file
+- Run the app.py
 - Open the web browser and go to http://127.0.0.1:5000/
 - Click Launch Server
 - Input Absolute path to the folder containing the json you want to dynamically add.
