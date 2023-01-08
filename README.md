@@ -79,7 +79,7 @@ The index is dynamically updated when a new document is added without deletion o
 - 200,000 articles have been tested on this code.
 - The python script took less than 3 minutes to parse, create the forward index, lexicon, inverted index, and rank the documents on an 8 core machine.
 - Search Speed is instant, both the single word and multi-word(even whole paragraphs)
-- Ranking can be improved based on as TP-IDF doesn't take Proximity or Position into consideration.
+- Ranking can be improved by taking Proximity and Position into consideration as TP-IDF doesn't take Proximity or Position into consideration.
 
 
 
